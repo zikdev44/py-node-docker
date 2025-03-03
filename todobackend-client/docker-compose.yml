@@ -1,0 +1,4 @@
+app:
+  image:  mher/todobackend-client
+  ports:
+    - 3000:3000
